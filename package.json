@@ -1,0 +1,25 @@
+{
+  "name": "watchibot-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryanore/watchibot-api.git"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/nodemon index.js"
+  },
+  "author": "ryan@ryanore.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanore/watchibot-api/issues"
+  },
+  "homepage": "https://github.com/ryanore/watchibot-api#readme",
+  "description": ""
+}
